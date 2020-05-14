@@ -1,0 +1,14 @@
+{
+  "templates": {
+    "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+    "scope": "@hamphardt",
+    "workspace": "draw-it-out"
+  },
+  "config": {
+    "wc": ["wc/draw-it-out.lcu.js"],
+    "solutions": {},
+    "elements": {},
+    "data-flow": {},
+    "dependencies": {}
+  }
+}
